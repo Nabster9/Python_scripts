@@ -16,8 +16,6 @@ def clearConsole():
         command = 'cls'
     os.system(command)
 
-#
-
 URL = "https://www.g2g.com/offer/Trixion---EU-Central?service_id=lgc_service_1&brand_id=lgc_game_23027&region_id=ac3f85c1-7562-437e-b125-e89576b9a38e&fa=lgc_23027_dropdown_17%3Algc_23027_dropdown_17_44715&sort=lowest_price&include_offline=0"
 
 while(True):
