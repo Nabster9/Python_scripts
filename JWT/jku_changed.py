@@ -1,3 +1,6 @@
+'''
+the application should never trust this URL as an attacker can provide their own URL and sign the message using the corresponding private key.
+'''
 import json
 import base64
 from cryptography.hazmat.primitives import hashes
